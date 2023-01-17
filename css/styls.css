@@ -11,5 +11,14 @@ body
     border-style: solid;
     border-color: blanchedalmond;
     border-width: 2 px;
-    margin:0 auto;
+    margin: 0 auto;
+
+}
+
+#cabecera{
+    border-style: solid;
+    width: 50%;
+    border-width: 2px;
+    border-color: blanchedalmond;
+    margin: 0  auto;
 }
