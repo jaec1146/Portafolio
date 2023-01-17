@@ -11,17 +11,12 @@ body
     border-style: solid;
     border-color: blanchedalmond;
     border-width: 2 px;
-<<<<<<< HEAD
     margin:0 auto;
 }
 
 table, th, td {
         border:1px solid rgb(255, 255, 255);
         margin: 0 auto;
-}
-=======
-    margin: 0 auto;
-
 }
 
 #cabecera{
@@ -33,4 +28,3 @@ table, th, td {
     background-color: beige;
     color: black;
 }
->>>>>>> cabecera
