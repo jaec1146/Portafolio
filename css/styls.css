@@ -29,3 +29,16 @@ table, th, td {
     background-color: beige;
     color: black;
 }
+
+.container{
+    display: grid;
+    width: 400px;
+    height: 400px;
+    background-color: papayawhip;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+}
+
+.item{
+    
+}
